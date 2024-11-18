@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  output-dir: docs
   navbar:
     title: "Jizhi Zhang"
     background: white
