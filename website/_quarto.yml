@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  navbar:
+    title: "Jizhi Zhang"
+    background: white
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Experiences"
+        href: projects.qmd  
+      - text: "Education"
+        href: education.qmd
+      #  menu:
+      #    - text: "咨询"
+      #      href: services/consulting.qmd
+      #    - text: "开发"
+      #      href: services/development.qmd
+    right:
+      - icon: github
+        href: https://github.com/Zhangjizhi2022
+        aria-label: "GitHub"
+  
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

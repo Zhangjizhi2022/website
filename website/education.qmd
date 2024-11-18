@@ -1,0 +1,36 @@
+---
+title: "Education"
+---
+
+
+
+## University of California, Irvine (UCI)  
+**Doctor of Philosophy in Statistics**  
+*2022 – 2027*  
+Irvine, California, USA 
+
+
+- Advisors: <a href="https://faculty.sites.uci.edu/weinings/" target="_blank">Weining Shen</a>  and <a href="https://faculty.sites.uci.edu/weinings/" target="_blank">Zhaoxia Yu</a>
+- Specialized in Item Response Theory, contributing to sampling and testing of response table using nonparametric MCMC sampling methods.
+- Specialized in Biostatistics, contributing to advancements in Alzheimer's desease's early testing using tetramer.
+- Served as a teaching assistant for undergraduate and graduate courses, mentoring students in data science, biostatistics, probability and statistics.
+- Awarded technical award, recognizing academic excellence and research contributions.
+
+
+---
+
+
+## University of Science and Technology of China (USTC)  
+**Bachelor of Science in Mathmatics**  
+*2018 – 2022*  
+Hefei, Anhui, China  
+
+- Gained a strong foundation in mathmatics, statistics and computer science.
+- Conducted undergraduate research on college students' acdemic performance investigation, developing skills in data analysis and scientific computing.
+- Active member of the Student Mathmatics Society, organizing workshops and seminars for peers.  
+- Awarded multiple times, recognizing academic excellence and research contributions.
+
+---
+
+
+

@@ -1,0 +1,44 @@
+---
+title: "Experience"
+---
+
+
+## UC Irvine  
+**Researcher**  
+*Jun 2023 – Sep 2023*    
+
+- Conducted research in Item Response Theory (IRT), designing an MCMC sampling method tailored to model features, improving efficiency by 50% and reducing data analysis time for 100x100 datasets.  
+- Utilized SQL for data manipulation and R for statistical analysis, increasing the identification of underperforming questions by 20%.  
+- Streamlined exam content improvement through insights into student performance and exam design flaws, presenting findings to non-technical audiences using data visualization tools.  
+
+---
+
+## Cure Alzheimer's Fund  
+**Researcher**  
+*Jun 2024 – Oct 2024*  
+
+- Improved Alzheimer's biomarker predictive accuracy by 30% through advanced data modeling and machine learning techniques using Python and scikit-learn.  
+- Developed clustering models and conducted exploratory data analysis (EDA) to enhance biomarker identification.  
+- Collaborated with cross-functional teams, integrating Big Data and Cloud Computing tools to produce robust data visualizations and analyses. Presented findings to stakeholders, driving data-driven decision-making.  
+
+---
+
+## UC Irvine Center for Statistical Consulting  
+**Data Scientist**  
+*Apr 2024 – Jun 2024*    
+
+- Analyzed survey data from over 1,000 graduate students to identify key stress factors using Python and R, leading to a 30% improvement in stress factor identification accuracy.  
+- Applied advanced algorithms and predictive modeling techniques, creating actionable insights for stress reduction strategies.  
+- Built interactive dashboards in Tableau and Matplotlib, presenting findings to the UCI Graduate School, and contributing to the development of targeted initiatives.  
+
+
+---
+
+## University of Science and Technology of China  
+**Project Leader**  
+*Jun 2020 – May 2021* 
+
+- Led a 3-member team to enhance production efficiency by 20% through algorithm optimization and data analysis.  
+- Implemented predictive modeling with Python and scikit-learn, reducing waste by 15% and showcasing data-driven decision-making.  
+- Collaborated across teams to design user-oriented software, integrating SQL and Tableau for improved data visualization.  
+- Communicated complex findings to stakeholders with clear visualization and analytics, fostering effective teamwork and decision-making.  
